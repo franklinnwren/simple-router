@@ -22,4 +22,4 @@ Trouble in replying from an icmp message which is not send to the interface itse
 
 Trouble in cast a const pointer to a pointer, using explicit cast, which is (RoutingTableEntry* ) cast.
 
-checksum for the icmp header, need to copy twice.
+Checksum for the icmp header, need to copy twice.
